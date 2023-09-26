@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtapryan)](https://git.io/streak-stats)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=mtapryan](https://cdn.discordapp.com/attachments/712589397916254209/1156221806005465138/user_profile.png?ex=65142ef8&is=6512dd78&hm=dfe1ca085d0b0ac2c212018c9325baaa0281e0be633de6bfe70955176f676540&))](https://git.io/streak-stats)
 
 <!--
 **mtapryan/mtapryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
