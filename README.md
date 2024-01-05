@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Logo Rumion](https://cdn.discordapp.com/attachments/712589397916254209/1192674247139659867/7490cc1d3ad642a.jpg)
+![Logo Rumion]([https://cdn.discordapp.com/attachments/712589397916254209/1192674247139659867/7490cc1d3ad642a.jpg])
 
 <!--
 **mtapryan/mtapryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
