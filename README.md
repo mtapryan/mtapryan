@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Logo Rumion]([https://cdn.discordapp.com/attachments/712589397916254209/1156221806005465138/user_profile.png?ex=65142ef8&is=6512dd78&hm=dfe1ca085d0b0ac2c212018c9325baaa0281e0be633de6bfe70955176f676540&](https://cdn.discordapp.com/attachments/712589397916254209/1192674247139659867/7490cc1d3ad642a.jpg?ex=65a9ef73&is=65977a73&hm=9c4aaff451b05547311b7c76e10ee1baf00a6d2645c9b208871265b74ec5513f&))
+![Logo Rumion](https://cdn.discordapp.com/attachments/712589397916254209/1192674247139659867/7490cc1d3ad642a.jpg)
 
 <!--
 **mtapryan/mtapryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
